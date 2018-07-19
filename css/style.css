@@ -450,11 +450,11 @@ a:active {
   width: 100%;
 }
 .banner-slider .item-1 {
-  background: url(../img/slide-2.jpg) center center no-repeat;
+  background: url(../img/slide_2.jpg) center center no-repeat;
   background-size: cover;
 }
 .banner-slider .item-2 {
-  background: url(../img/slide-1.jpg) center center no-repeat;
+  background: url(../img/slide_1.jpg) center center no-repeat;
   background-size: cover;
 }
 .banner-slider .item-3 {
